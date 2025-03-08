@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/De-identify-DICOM-Data-with-the-Healthcare-API-GSP626/refs/heads/main/qwiklab_explorers_gsp626.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Interconnecting-Networks---Challenge-Lab/refs/heads/main/qwiklab_explorers-Interconnecting%20Networks.sh
 
-sudo chmod +x qwiklab_explorers_gsp626.sh
+sudo chmod +x qwiklab_explorers-Interconnecting%20Networks.sh
 
-./qwiklab_explorers_gsp626.sh
+./qwiklab_explorers-Interconnecting%20Networks.sh
 ```
 
 ---
